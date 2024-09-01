@@ -9,7 +9,7 @@ export const Bio = {
     "I'm a Full Stack Developer specializing in frontend development with the MERN stack and Next.js. I love crafting intuitive user interfaces and ensuring strong backend support. I'm also passionate about programming and regularly tackle complex DSA problems. My goal is to build scalable, high-quality solutions that offer great user experiences.",
   github: "https://github.com/adesh-sahil",
   resume:
-    "https://drive.google.com/file/d/16Omn79TVRxem0FMwDNzcWDFIfpWGC8H6/view",
+    "https://drive.google.com/file/d/1E1K18xVWitXt_zIQo0dToW1T9Tm36Ksf/view",
   linkedin: "https://www.linkedin.com/in/ak-maharaj/",
   twitter: "https://twitter.com/adesh_sahil",
   insta: "https://www.instagram.com/adesh_sahil/",

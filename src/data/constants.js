@@ -9,7 +9,7 @@ export const Bio = {
     "I'm a Full Stack Developer specializing in frontend development with the MERN stack and Next.js. I love crafting intuitive user interfaces and ensuring strong backend support. I'm also passionate about programming and regularly tackle complex DSA problems. My goal is to build scalable, high-quality solutions that offer great user experiences.",
   github: "https://github.com/adesh-sahil",
   resume:
-    "https://drive.google.com/file/d/1E1K18xVWitXt_zIQo0dToW1T9Tm36Ksf/view",
+    "https://drive.google.com/file/d/1MuTgaREu3O-eCT19j3cztYCSgmsHwk3E/view",
   linkedin: "https://www.linkedin.com/in/ak-maharaj/",
   twitter: "https://twitter.com/adesh_sahil",
   insta: "https://www.instagram.com/adesh_sahil/",
@@ -171,13 +171,25 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxJU-TqO-IVKl_NyUf1wcEpsjuV_pqR4c-w&s",
     school: "India Institute of Engineering Science and Technology, Shibpur",
     date: "Nov 2020 - June 2024",
-    grade: "7.95 CGPA",
+    grade: "8.03 CGPA",
     desc: "I recently completed my Bachelor's degree in Information Technology at the Indian Institute of Engineering Science and Technology, Shibpur (IIEST Shibpur) in 2024, with a CGPA of 7.95. During my studies, I took courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I have a strong foundation in the MERN stack and Next.js, and I am actively working on web development projects. Additionally, I am continuously honing my skills in software development and collaborating with fellow developers on exciting projects.",
     degree: "Bachelor of Technology - BTech, Information Technology",
   },
 ];
 
 export const projects = [
+  {
+    id: 3,
+    title: "DOC-APP",
+    date: "April 2024",
+    description:
+      "Doc-App is a comprehensive healthcare management platform built to streamline doctor-patient interactions. The app offers features like easy appointment scheduling, role-based access for doctors, patients, and admins, and a secure environment for managing health records. Designed for efficiency and scalability, Doc-App ensures a smooth user experience while enabling doctors to provide timely care and patients to manage appointments effortlessly.",
+    image:
+      "https://i.imgur.com/vAsrH46.png",
+    tags: ["MongoDB", "Express", "ReactJs", "NodeJs"],
+    github: "https://github.com/adesh-sahil/Doc-App-MERN",
+    webapp: "https://production-doc-app.onrender.com/",
+  },
   {
     id: 11,
     title: "NoteNexus",

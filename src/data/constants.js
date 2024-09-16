@@ -191,6 +191,18 @@ export const projects = [
     webapp: "https://production-doc-app.onrender.com/",
   },
   {
+    id: 4,
+    title: "Apple-website",
+    date: "June 2024",
+    description:
+      "This 3D iPhone Website is an interactive showcase of a 3D iPhone model, allowing users to rotate, change colors, and view different sizes seamlessly. Built with React, Three.js, and GSAP for smooth animations and optimized for performance.",
+    image:
+      "https://i.imgur.com/fWJy0Jn.png",
+    tags: ["ReactJs", "ThreeJS", "GSAP"],
+    github: "https://github.com/adesh-sahil/iPhone_website",
+    webapp: "https://iphone-3d-site.netlify.app/",
+  },
+  {
     id: 11,
     title: "NoteNexus",
     date: "Feb 2024",
